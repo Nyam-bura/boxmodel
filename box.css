@@ -4,19 +4,20 @@
     left: 35%;
 }
 .box1{
-    background-color: rgb(0, 255, 157);
+    background-color: rgb(21, 255, 0);
 width: 180%;
 padding: 30px;
 outline: solid 5px ;
+align-items: center;
 }
 .box2{
-    background-color: rgb(234, 0, 255);
+    background-color: rgb(174, 0, 255);
     width: 90%;
     padding: 20px;
     border: solid 5px red;
 }
 .box3{
-    background-color: crimson;
+    background-color: rgb(220, 20, 113);
     width: 80px;
     padding: 15px;
     font-size: 15px;
